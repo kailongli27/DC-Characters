@@ -1,5 +1,7 @@
 A web application created using React, with input & output fields as well as two-way binding.
 
+![Image of Web Application](https://github.com/kailongli27/DC-Characters/blob/master/Screenshot.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
