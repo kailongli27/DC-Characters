@@ -1,3 +1,5 @@
+A web application created using React, with input & output fields as well as two-way binding.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
